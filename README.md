@@ -1,5 +1,6 @@
 # light-reactor
-An experimental art installation that any number of people can create and explore with together
+
+An experimental art installation that any number of people can create and explore with together. A window into a mirror world where light users provide on their own is reflected as living particles.
 
 ## Project Goals
 
